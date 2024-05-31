@@ -1,10 +1,6 @@
 --- 
 title: "Intro to Astigmatism Analysis"
-author: "Malak Habib BMedSc MD MMedRes
-Nick Andrew MBBS FRANZO PhD"
+author: "Malak Habib, Nick Andrew
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
-
-# Down the rabbit-hole
-
