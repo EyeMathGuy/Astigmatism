@@ -1,6 +1,7 @@
 --- 
-title: "YOUR TITLE HERE"
-author: "YOUR NAME HERE"
+title: "Intro to Astigmatism Analysis"
+author: "Malak Habib BMedSc MD MMedRes
+Nick Andrew MBBS FRANZO PhD"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
